@@ -5,5 +5,5 @@ Swarm Optimization</b> algorithm to find the optimum set of
 hyper parameters for training a Neural Net model that can
 give best results.
 This work also compares the optimization algorithms with
-various factors like <i>computation time, time to convergence<i> and
+various factors like <i>computation time, time to convergence</i> and
 tries to find the best one.
